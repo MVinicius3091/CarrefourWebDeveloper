@@ -14,4 +14,6 @@
 
 - Gestão de Projetos com SCRUM
 
-### Loading....:time:
+### Loading....:hourglass:
+
+
